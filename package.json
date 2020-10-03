@@ -1,5 +1,6 @@
 {
   "name": "starwarstracker",
+  "homepage": "https://kiritojx.github.io/starwarstracker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
